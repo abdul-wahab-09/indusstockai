@@ -1,0 +1,21 @@
+# Secrets - never commit
+.streamlit/secrets.toml
+.env
+
+# Databases (contain your inventory data)
+data/*.db
+data/*.db-journal
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

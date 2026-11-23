@@ -1,0 +1,8 @@
+
+streamlit>=1.40,<2.0
+pandas>=2.0,<3.0
+openpyxl>=3.1
+google-genai
+streamlit-mic-recorder>=0.0.8
+tzdata>=2024.1
+

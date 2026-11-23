@@ -1,0 +1,14 @@
+# Dark theme by default. To switch: top-right menu (⋮) -> Settings -> Theme -> Light / Dark / Use system setting.
+[theme]
+base = "dark"
+primaryColor = "#22b8cf"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1a2030"
+textColor = "#e8edf5"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 10
